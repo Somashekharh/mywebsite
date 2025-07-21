@@ -88,7 +88,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: 'StudyBot AI',
             description: 'AI learning assistant using Streamlit, Gemini API, and Python. GitHub: StudyBot',
             stack: ['Streamlit', 'Gemini API', 'Python'],
-            github: 'https://github.com/Somashekharh/StudyBot-AI',
+            github: 'https://github.com/Somashekharh/StudyBot',
             demo: null
         }
     ];
